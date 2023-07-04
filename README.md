@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejkumarnepal
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R and Python
+- 💞️ I’m looking to collaborate on R
 - 📫 How to reach me tejkumarnepal97@gmail.com
 
 <!---
