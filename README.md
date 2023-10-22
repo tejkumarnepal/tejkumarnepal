@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejkumarnepal
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R, STATA, MAXQDA, and Python
 - 💞️ I’m looking to collaborate on Citizen Science, Traditional Ecological Knowledge, and Ethnobotanical Research.
 - 📫 How to reach me tejkumarnepal97@gmail.com
 
